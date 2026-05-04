@@ -20,12 +20,12 @@ Permite organizar productos, controlar inventario y registrar ventas en pequeño
 3. Ejecutar `flutter run`
 4. ........
 
-## 📋 Requisitos
+# Requisitos
 - Flutter instalado
 - Dart SDK
 - Emulador o dispositivo físico
 - .........
 
-## 👥 Integrantes
+# Integrantes
 - Nicole Araujo
 
