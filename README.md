@@ -2,7 +2,7 @@
 # Sistema de Gestión de Accesorios
 
 # Descripción
-Aplicación móvil desarrollada en Flutter/Dart para gestionar stock y ventas de productos en un negocio de accesorios.
+Aplicación móvil/web desarrollada en Flutter/Dart para gestionar stock y ventas de productos en un negocio de accesorios.
 
 # Problema que resuelve
 Permite organizar productos, controlar inventario y registrar ventas en pequeños comercios.
